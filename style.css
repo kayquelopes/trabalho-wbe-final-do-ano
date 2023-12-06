@@ -20,6 +20,12 @@ h2{
     margin-bottom: 2px;
     font-size: 42px;
 }
-
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+    text-decoration: underline;
+}
 
 
